@@ -1,6 +1,6 @@
 from copy import deepcopy
 import numpy as np
-from greenery.lego import parse
+from greenery import parse
 from ptype.utils import LOG_EPS, contains_all, log_sum_probs, normalise_safe
 
 
